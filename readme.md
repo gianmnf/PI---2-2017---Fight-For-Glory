@@ -4,3 +4,5 @@ Desenvolver um jogo de plataforma com elementos de hack'n slash em um mundo medi
 
 Integrantes:
 Gian Michel
+José Carlos
+
