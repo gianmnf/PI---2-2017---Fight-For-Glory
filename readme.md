@@ -6,9 +6,8 @@ Integrantes:
 Gian Michel
 José Carlos
 Vinícius Langholz de Lima
+Leonardo Lourenço Braga
 Alef Melo
-
-
 
 
 
