@@ -1,8 +1,8 @@
 # Cronograma - Projeto Integrador II
 
-<b>Membros:</b> Vinícius Langholz ; Alef Melo; Leonardo Braga
-
-Setembro: Para o mês de setembro o objetivo será definir o nome do projeto (Jogo), qual plataforma (ex: Unity) utilizar, 
-o estilo do jogo, número de estágios, ambientação e objetivos a serem cumpridos dentro do jogo.
+<b>Membros:</b> Vinícius Langholz ; Alef Melo; Gean Michel;Leonardo Braga
+=======
+Setembro: Para o mÃªs de setembro o objetivo serÃ¡ definir o nome do projeto (Jogo), qual plataforma (ex: Unity) utilizar, 
+o estilo do jogo, nÃºmero de estÃ¡gios, ambientaÃ§Ã£o e objetivos a serem cumpridos dentro do jogo.
 
 Outubro:
