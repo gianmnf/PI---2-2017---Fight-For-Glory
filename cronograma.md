@@ -1,8 +1,4 @@
 # Cronograma - Projeto Integrador II
-
-<b>Membros:</b> 
-
-Vinícius Langholz
 =======
 <b>Membros:</b> Vinícius Langholz ; Alef Melo; Gian Michel
 
