@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F5359E51-959E-5757-0926-B04D3951E303}") = "PiTeste", "Assembly-CSharp.csproj", "{53445923-8728-BDDE-FD78-D28F3A19C449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53445923-8728-BDDE-FD78-D28F3A19C449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53445923-8728-BDDE-FD78-D28F3A19C449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53445923-8728-BDDE-FD78-D28F3A19C449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53445923-8728-BDDE-FD78-D28F3A19C449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
