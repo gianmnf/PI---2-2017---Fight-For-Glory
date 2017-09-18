@@ -1,8 +1,9 @@
-# Cronograma - Projeto Integrador II
+﻿# Cronograma - Projeto Integrador II
 
 <b>Membros:</b> Vinícius Langholz ; Alef Melo; Gian Michel ; José Carlos; Leonardo Braga
 
-Setembro: Para o mês de setembro o objetivo será definir o nome do projeto (Jogo), qual plataforma (ex: Unity) utilizar, 
-o estilo do jogo, número de estágios, ambientação e objetivos a serem cumpridos dentro do jogo.
+Setembro: Para o mês de Setembro, serão entregues o menu inicial e uma fase teste(tutorial).
 
-Outubro:
+Outubro: Para o mês de Outubro, serão criadas 3 fases e um personagem jogável.
+
+Novembro: Para o mês de Novembro,será criado o restante das fases,e outro personagem jogável.Finalização do Projeto.
