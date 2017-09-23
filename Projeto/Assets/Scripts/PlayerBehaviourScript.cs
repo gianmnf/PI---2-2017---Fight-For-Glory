@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class PlayerBehaviourScript : MonoBehaviour {
 
+<<<<<<< HEAD
 	private Rigidbody2D rb;
+=======
+	private Rigidbody2D rd;
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
 	private Transform tr;
 	private Animator an;
 	public Transform verificaChao;
@@ -14,6 +18,10 @@ public class PlayerBehaviourScript : MonoBehaviour {
 	private bool estaNoChao;
 	private bool estaNaParede;
 	private bool estaVivo;
+<<<<<<< HEAD
+=======
+	private bool estaPulando;
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
 	private bool viradoParaDireita;
 
 	private float axis;
@@ -28,7 +36,11 @@ public class PlayerBehaviourScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+<<<<<<< HEAD
 		rb = GetComponent<Rigidbody2D> ();
+=======
+		rd = GetComponent<Rigidbody2D> ();
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
 		tr = GetComponent<Transform> ();
 		an = GetComponent<Animator> ();
 
@@ -39,6 +51,7 @@ public class PlayerBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+<<<<<<< HEAD
 		estaNoChao = Physics2D.OverlapCircle (verificaChao.position, raioValidaChao, solido);
 		estaNaParede = Physics2D.OverlapCircle (verificaParede.position, raioValidaParede, solido);
 
@@ -47,18 +60,42 @@ public class PlayerBehaviourScript : MonoBehaviour {
 		axis = Input.GetAxisRaw ("Horizontal");
 
 		estaAndando = Mathf.Abs (axis) > 0f;
+=======
+		estaNoChao = Physics2D.OverlapCircle(verificaChao.transform, raioValidaChao, solido);
+		estaNaParede = Physics2D.OverlapCircle(verificaParede.transform, raioValidaParede, solido);
+
+		if (estaNoChao)
+			estaPulando = false;
+		
+		axis = Input.GetAxisRaw ("Horizontal");
+
+		estaAndando = Matf.Abs (axis) > 0f;
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
 
 		if (axis > 0f && !viradoParaDireita)
 			Flip ();
 		else if (axis < 0f && viradoParaDireita)
 			Flip ();
 
+<<<<<<< HEAD
 		if (Input.GetButtonDown ("Jump") && estaNoChao)
 			rb.AddForce (tr.up * forcaPulo);
 	}
 	}
 
 	void FixedUpdate(){
+=======
+		if (input.GetButtonDown ("Jump") && estaNoChao)
+			estaPulando = true;
+		
+	}
+
+	void FixedUpdate(){
+
+		if (estaPulando)
+			rb.AddForce (tr.up * forcaPulo);
+
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
 		if (estaAndando && !estaNaParede) {
 
 			if (viradoParaDireita)
@@ -75,6 +112,7 @@ public class PlayerBehaviourScript : MonoBehaviour {
 
 		tr.localScale = new Vector2 (-tr.localScale.x, tr.localScale.y);
 	}
+<<<<<<< HEAD
 		
 	void OnDrawGizmosSelected(){
 		Gizmos.color = Color.red;
@@ -82,4 +120,6 @@ public class PlayerBehaviourScript : MonoBehaviour {
 		Gizmos.DrawWireSphere (verificaChao.position, raioValidaChao);
 		Gizmos.DrawWireSphere (verificaParede.position, raioValidaParede);
 	}
+=======
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
 }

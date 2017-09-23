@@ -1,5 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Volume.cs">
     <Files>
       <File FileName="Assets\Scripts\PlayerBehaviourScript.cs" Line="1" Column="1" />
@@ -8,6 +9,11 @@
       <File FileName="Assets\Scripts\Qualidade.cs" Line="1" Column="1" />
       <File FileName="Assets\LevelManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Volume.cs" Line="15" Column="36" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerBehaviourScript.cs" Line="69" Column="1" />
+>>>>>>> c2652efce8430faa35561987482a84e82333650e
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
