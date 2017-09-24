@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerBehaviourScript : MonoBehaviour {
 
@@ -55,7 +56,9 @@ public class PlayerBehaviourScript : MonoBehaviour {
 
 		if (Input.GetButtonDown ("Jump") && estaNoChao)
 			rb.AddForce (tr.up * forcaPulo);
-	}
+	
+			Animations ();
+		}
 	}
 
 	void FixedUpdate(){
@@ -81,5 +84,11 @@ public class PlayerBehaviourScript : MonoBehaviour {
 
 		Gizmos.DrawWireSphere (verificaChao.position, raioValidaChao);
 		Gizmos.DrawWireSphere (verificaParede.position, raioValidaParede);
+	}
+
+	void Animations(){
+		an.SetBool("Andando",(estaNoChao && estaAndando));
+		an.SetBool("Pulando", !estaNoChao);
+		an.SetFloat("VelVertical",rb.velocity.y);
 	}
 }
