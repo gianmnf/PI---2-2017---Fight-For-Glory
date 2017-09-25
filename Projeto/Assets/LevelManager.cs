@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour {
-	public Transform mainMenu, optionsMenu,levelMenu;
+	public Transform mainMenu, optionsMenu,levelMenu,instrucoes,creditos;
 	public void LoadScene (string name) {
 		SceneManager.LoadScene(name);
 	}
@@ -28,6 +28,27 @@ public class LevelManager : MonoBehaviour {
 		} 
 		else {
 			levelMenu.gameObject.SetActive (clicked);
+			mainMenu.gameObject.SetActive (true);
+		}
+	}
+	public void Instrucoes(bool clicked){
+		if (clicked == true) {
+			instrucoes.gameObject.SetActive (clicked);
+			mainMenu.gameObject.SetActive (false);
+		} 
+		else {
+			instrucoes.gameObject.SetActive (clicked);
+			mainMenu.gameObject.SetActive (true);
+		}
+	}
+
+	public void Creditos(bool clicked){
+		if (clicked == true) {
+			creditos.gameObject.SetActive (clicked);
+			mainMenu.gameObject.SetActive (false);
+		} 
+		else {
+			creditos.gameObject.SetActive (clicked);
 			mainMenu.gameObject.SetActive (true);
 		}
 	}

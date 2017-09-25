@@ -6,8 +6,8 @@ using UnityEngine.Events;
 using System.IO;
 
 public class Resolucao_Tela : MonoBehaviour   {
-	// Resolucao é o nome do menu de opções.
-	public Dropdown Resolucao;
+	// resolucao é o nome do menu de opções.
+	public Dropdown resolucao;
 	Resolution[] resolutions;
 
 	void Start() {
@@ -16,11 +16,11 @@ public class Resolucao_Tela : MonoBehaviour   {
 
 		for (int i = 0; i < resolutions.Length; i++)
 		{
-			Resolucao.options.Add (new Dropdown.OptionData (ResToString (resolutions [i])));
+			resolucao.options.Add (new Dropdown.OptionData (ResToString (resolutions [i])));
 
-			Resolucao.value = i;
+			resolucao.value = i;
 
-			Resolucao.onValueChanged.AddListener(delegate { Screen.SetResolution(resolutions[Resolucao.value].width, resolutions[Resolucao.value].height, true);});
+			resolucao.onValueChanged.AddListener(delegate { Screen.SetResolution(resolutions[resolucao.value].width, resolutions[resolucao.value].height, true);});
 
 		}
 	}
