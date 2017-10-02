@@ -58,7 +58,7 @@ public class GameManager : MonoBehaviour {
 
 	void OnLevelWasLoaded()
 	{
-		if (SceneManager.GetActiveScene ().buildIndex == 0 || SceneManager.GetActiveScene ().buildIndex == 1) 
+		if (SceneManager.GetActiveScene ().buildIndex == 0) 
 		{
 			vidas = 2;
 			moedas = 0;
