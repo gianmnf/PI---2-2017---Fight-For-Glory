@@ -4,6 +4,6 @@
 
 Setembro: Para o mês de Setembro, serão entregues o menu inicial e uma fase teste(tutorial).
 
-Outubro: Para o mês de Outubro, serão criadas 3 fases e um personagem jogável.
+Outubro: Para o mês de Outubro, serão criadas 3 fases.
 
 Novembro: Para o mês de Novembro,será criado o restante das fases,e outro personagem jogável.Finalização do Projeto.
