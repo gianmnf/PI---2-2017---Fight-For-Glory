@@ -10,3 +10,5 @@ Novembro: Nesta etapa serão adicionadas as fases para os níveis MÉDIO e DIFÍ
           Correções em bugs no cenário.
           Correções em bugs na física.
           Correções em texturas pixelizadas.
+          Adicionar animações nas moedas.
+          Adicionar contador de moedas.
