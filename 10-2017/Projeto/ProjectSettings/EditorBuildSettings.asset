@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2707b1d4407c2994996f32ba9b3e51de
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Guerreiro.unity
+    guid: 251678da39c5b474583e62ddf72dda54
+  - enabled: 1
+    path: Assets/Scenes/Fim.unity
+    guid: 0067df636e49d9846bc6c371c4861bb1
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 4199bc238a52bf640a5379a601ad54d6
+  - enabled: 1
+    path: Assets/Scenes/PauseMenuTutorial.unity
+    guid: 66d5f2ce4f4af6b41a797ec6e317596d
+  - enabled: 1
+    path: Assets/Scenes/Facil/Fase1_Facil.unity
+    guid: 0a0472a2bf08fa04db458f9906ccfc80
+  - enabled: 1
+    path: Assets/Scenes/Facil/Fase2_Facil.unity
+    guid: daf74763647331e4cb28e7486ad6b3a3
+  - enabled: 1
+    path: Assets/Scenes/Facil/Fase3_Facil.unity
+    guid: 6e751b4835444c5468cb58509a282134
+  - enabled: 1
+    path: Assets/Scenes/Facil/PauseMenuFase1_Facil.unity
+    guid: 0e7b63aea23c36141be2a2bfb25330f6
+  - enabled: 1
+    path: Assets/Scenes/Facil/PauseMenuFase2_Facil.unity
+    guid: fbcb45b13dc0323428cf598e4c99d3fb
+  - enabled: 1
+    path: Assets/Scenes/Facil/PauseMenuFase3_Facil.unity
+    guid: 92a0c2e50e2e35148ab846f90bf54796
+  - enabled: 1
+    path: Assets/Scenes/Facil/ProximaFase2_Facil.unity
+    guid: 9f01e6c46947e3e4b9b13b66a5b35a61
+  - enabled: 1
+    path: Assets/Scenes/Facil/ProximaFase3_Facil.unity
+    guid: c24d3aa57b00113448ad731dfac727c0
+  - enabled: 1
+    path: Assets/Scenes/Medio/Fase1_Medio.unity
+    guid: 3899bc79db2241a4aac06c2acff9708a
+  - enabled: 1
+    path: Assets/Scenes/Medio/Fase2_Medio.unity
+    guid: 419447dd2e24c9244a631322b0164d1c
+  - enabled: 1
+    path: Assets/Scenes/Medio/Fase3_Medio.unity
+    guid: 45448be70fc6c724e845e584c5ddfe08
+  - enabled: 1
+    path: Assets/Scenes/Medio/PauseMenuFase1_Medio.unity
+    guid: b568df97edf5e88479d00b3d4644960c
+  - enabled: 1
+    path: Assets/Scenes/Medio/PauseMenuFase2_Medio.unity
+    guid: de615a77ee566c74f85ddcf77774a344
+  - enabled: 1
+    path: Assets/Scenes/Medio/PauseMenuFase3_Medio.unity
+    guid: 6ca8d0af195205549b65a3b3445a5d94
+  - enabled: 1
+    path: Assets/Scenes/Medio/ProximaFase2_Medio.unity
+    guid: e723a622db4624a42bdf10d11962bc65
+  - enabled: 1
+    path: Assets/Scenes/Medio/ProximaFase3_Medio.unity
+    guid: 8513495ac5cffd946b768435a2b60cba
+  - enabled: 1
+    path: Assets/Scenes/Dificil/Fase1_Dificil.unity
+    guid: 326d2ad774b95f74daa9b984094849ac
+  - enabled: 1
+    path: Assets/Scenes/Dificil/Fase2_Dificil.unity
+    guid: d3e6af11a8e15804a954c7a4a1f39617
+  - enabled: 1
+    path: Assets/Scenes/Dificil/Fase3_Dificil.unity
+    guid: 97aff58e00f98ea4290e507577fed4df
+  - enabled: 1
+    path: Assets/Scenes/Dificil/PauseMenuFase1_Dificil.unity
+    guid: b4200a9ce4aad0845b4a5f949d2ad107
+  - enabled: 1
+    path: Assets/Scenes/Dificil/PauseMenuFase2_Dificil.unity
+    guid: e05317eb595d3d841818b8c17901892c
+  - enabled: 1
+    path: Assets/Scenes/Dificil/PauseMenuFase3_Dificil.unity
+    guid: 021cb38a97b0c2843afd2efe61839b24
+  - enabled: 1
+    path: Assets/Scenes/Dificil/ProximaFase2_Dificil.unity
+    guid: 98af4e698c63c5344b7c8937f9c6d337
+  - enabled: 1
+    path: Assets/Scenes/Dificil/ProximaFase3_Dificil.unity
+    guid: 5beb58af5d53c604f94a39dc4ee53d87

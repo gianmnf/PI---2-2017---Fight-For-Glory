@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2cb09110183b43f4eb668788b6f28a1b
+timeCreated: 1509050315
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Signature of the Ancient '
+  fontNames:
+  - 'Signature of the Ancient '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
