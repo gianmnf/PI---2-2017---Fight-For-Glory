@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour {
 	public GameObject aso;
-	public Transform mainMenu, optionsMenu,levelMenu,instrucoes,creditos,guerreiro,guerreirofacil,guerreiromedio,guerreirodificil;
+	public Transform mainMenu, optionsMenu,levelMenu,instrucoes,creditos,guerreiro,guerreirofacil,guerreiromedio,guerreirodificil,guerreira,guerreirafacil,guerreiramedio,guerreiradificil;
 	public void LoadScene (string name) {
 		SceneManager.LoadScene(name);
 	}
@@ -91,6 +91,46 @@ public class LevelManager : MonoBehaviour {
 		else {
 			guerreirodificil.gameObject.SetActive (clicked);
 			guerreiro.gameObject.SetActive (true);
+		}
+	}
+	public void Guerreira(bool clicked){
+		if (clicked == true) {
+			guerreira.gameObject.SetActive (clicked);
+			levelMenu.gameObject.SetActive (false);
+		} 
+		else {
+			guerreira.gameObject.SetActive (clicked);
+			levelMenu.gameObject.SetActive (true);
+		}
+	}
+	public void GuerreiraFacil(bool clicked){
+		if (clicked == true) {
+			guerreirafacil.gameObject.SetActive (clicked);
+			guerreira.gameObject.SetActive (false);
+		} 
+		else {
+			guerreirafacil.gameObject.SetActive (clicked);
+			guerreira.gameObject.SetActive (true);
+		}
+	}
+	public void GuerreiraMedio(bool clicked){
+		if (clicked == true) {
+			guerreiramedio.gameObject.SetActive (clicked);
+			guerreira.gameObject.SetActive (false);
+		} 
+		else {
+			guerreiramedio.gameObject.SetActive (clicked);
+			guerreira.gameObject.SetActive (true);
+		}
+	}
+	public void GuerreiraDificil(bool clicked){
+		if (clicked == true) {
+			guerreiradificil.gameObject.SetActive (clicked);
+			guerreira.gameObject.SetActive (false);
+		} 
+		else {
+			guerreiradificil.gameObject.SetActive (clicked);
+			guerreira.gameObject.SetActive (true);
 		}
 	}
 	public void Music(){
