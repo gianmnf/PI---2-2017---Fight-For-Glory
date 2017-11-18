@@ -3066,7 +3066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c46be46f021ca024b8df7c5708ceac4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: PauseMenuFase3_Medio
+  name: PauseMenuFase3_Medio_Guerreira
   other: {fileID: 1040065482}
   musica: {fileID: 2005055020}
 --- !u!4 &493688108
@@ -5010,7 +5010,7 @@ Prefab:
     - target: {fileID: 114836309088902808, guid: ebcef85c338d8c343aae98db1c36eaa3,
         type: 2}
       propertyPath: cena
-      value: ProximaFase2_Facil
+      value: Fim
       objectReference: {fileID: 0}
     - target: {fileID: 114836309088902808, guid: ebcef85c338d8c343aae98db1c36eaa3,
         type: 2}

@@ -6502,7 +6502,7 @@ Prefab:
     - target: {fileID: 114836309088902808, guid: ebcef85c338d8c343aae98db1c36eaa3,
         type: 2}
       propertyPath: cena
-      value: ProximaFase3_Facil
+      value: ProximaFase3_Medio
       objectReference: {fileID: 0}
     - target: {fileID: 114836309088902808, guid: ebcef85c338d8c343aae98db1c36eaa3,
         type: 2}

@@ -10,6 +10,9 @@ EditorBuildSettings:
     guid: 2707b1d4407c2994996f32ba9b3e51de
   - enabled: 1
     path: Assets/Scenes/Tutorial_Guerreiro.unity
+    guid: 4b5c9f8e9df1e4240ade465f88aff59b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Guerreira.unity
     guid: 251678da39c5b474583e62ddf72dda54
   - enabled: 1
     path: Assets/Scenes/Fim.unity
@@ -18,77 +21,152 @@ EditorBuildSettings:
     path: Assets/Scenes/Game Over.unity
     guid: 4199bc238a52bf640a5379a601ad54d6
   - enabled: 1
-    path: Assets/Scenes/PauseMenuTutorial.unity
-    guid: 66d5f2ce4f4af6b41a797ec6e317596d
+    path: Assets/Scenes/PauseMenuTutorial_Guerreiro.unity
+    guid: 63d56a97c1013244e9be0664d3b3b4c0
   - enabled: 1
-    path: Assets/Scenes/Facil/Fase1_Facil.unity
+    path: Assets/Scenes/PauseMenuTutorial_Guerreira.unity
+    guid: 4383627a306681a42b6ec8f9852d3313
+  - enabled: 1
+    path: Assets/Scenes/Guerreiro/Facil/Fase1_Facil.unity
     guid: 0a0472a2bf08fa04db458f9906ccfc80
   - enabled: 1
-    path: Assets/Scenes/Facil/Fase2_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/Fase2_Facil.unity
     guid: daf74763647331e4cb28e7486ad6b3a3
   - enabled: 1
-    path: Assets/Scenes/Facil/Fase3_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/Fase3_Facil.unity
     guid: 6e751b4835444c5468cb58509a282134
   - enabled: 1
-    path: Assets/Scenes/Facil/PauseMenuFase1_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/PauseMenuFase1_Facil.unity
     guid: 0e7b63aea23c36141be2a2bfb25330f6
   - enabled: 1
-    path: Assets/Scenes/Facil/PauseMenuFase2_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/PauseMenuFase2_Facil.unity
     guid: fbcb45b13dc0323428cf598e4c99d3fb
   - enabled: 1
-    path: Assets/Scenes/Facil/PauseMenuFase3_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/PauseMenuFase3_Facil.unity
     guid: 92a0c2e50e2e35148ab846f90bf54796
   - enabled: 1
-    path: Assets/Scenes/Facil/ProximaFase2_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/ProximaFase2_Facil.unity
     guid: 9f01e6c46947e3e4b9b13b66a5b35a61
   - enabled: 1
-    path: Assets/Scenes/Facil/ProximaFase3_Facil.unity
+    path: Assets/Scenes/Guerreiro/Facil/ProximaFase3_Facil.unity
     guid: c24d3aa57b00113448ad731dfac727c0
   - enabled: 1
-    path: Assets/Scenes/Medio/Fase1_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/Fase3_Medio.unity
     guid: 3899bc79db2241a4aac06c2acff9708a
   - enabled: 1
-    path: Assets/Scenes/Medio/Fase2_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/Fase2_Medio.unity
     guid: 419447dd2e24c9244a631322b0164d1c
   - enabled: 1
-    path: Assets/Scenes/Medio/Fase3_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/Fase1_Medio.unity
     guid: 45448be70fc6c724e845e584c5ddfe08
   - enabled: 1
-    path: Assets/Scenes/Medio/PauseMenuFase1_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/PauseMenuFase1_Medio.unity
     guid: b568df97edf5e88479d00b3d4644960c
   - enabled: 1
-    path: Assets/Scenes/Medio/PauseMenuFase2_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/PauseMenuFase2_Medio.unity
     guid: de615a77ee566c74f85ddcf77774a344
   - enabled: 1
-    path: Assets/Scenes/Medio/PauseMenuFase3_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/PauseMenuFase3_Medio.unity
     guid: 6ca8d0af195205549b65a3b3445a5d94
   - enabled: 1
-    path: Assets/Scenes/Medio/ProximaFase2_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/ProximaFase2_Medio.unity
     guid: e723a622db4624a42bdf10d11962bc65
   - enabled: 1
-    path: Assets/Scenes/Medio/ProximaFase3_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/ProximaFase3_Medio.unity
     guid: 8513495ac5cffd946b768435a2b60cba
   - enabled: 1
-    path: Assets/Scenes/Dificil/Fase1_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/Fase1_Dificil.unity
     guid: 326d2ad774b95f74daa9b984094849ac
   - enabled: 1
-    path: Assets/Scenes/Dificil/Fase2_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/Fase2_Dificil.unity
     guid: d3e6af11a8e15804a954c7a4a1f39617
   - enabled: 1
-    path: Assets/Scenes/Dificil/Fase3_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/Fase3_Dificil.unity
     guid: 97aff58e00f98ea4290e507577fed4df
   - enabled: 1
-    path: Assets/Scenes/Dificil/PauseMenuFase1_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/PauseMenuFase1_Dificil.unity
     guid: b4200a9ce4aad0845b4a5f949d2ad107
   - enabled: 1
-    path: Assets/Scenes/Dificil/PauseMenuFase2_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/PauseMenuFase2_Dificil.unity
     guid: e05317eb595d3d841818b8c17901892c
   - enabled: 1
-    path: Assets/Scenes/Dificil/PauseMenuFase3_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/PauseMenuFase3_Dificil.unity
     guid: 021cb38a97b0c2843afd2efe61839b24
   - enabled: 1
-    path: Assets/Scenes/Dificil/ProximaFase2_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/ProximaFase2_Dificil.unity
     guid: 98af4e698c63c5344b7c8937f9c6d337
   - enabled: 1
-    path: Assets/Scenes/Dificil/ProximaFase3_Dificil.unity
+    path: Assets/Scenes/Guerreiro/Dificil/ProximaFase3_Dificil.unity
     guid: 5beb58af5d53c604f94a39dc4ee53d87
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/Fase1_Facil_Guerreira.unity
+    guid: d639bdd04ec2c194ab9517c028767274
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/Fase2_Facil_Guerreira.unity
+    guid: 713d0d40a9a990141918e5f3c68a3ee7
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/Fase3_Facil_Guerreira.unity
+    guid: daa9b6013687bb04fb1a4d8808903f88
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/PauseMenuFase1_Facil_Guerreira.unity
+    guid: 2214f0598ff90bb47bc11645c3dd7c0f
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/PauseMenuFase2_Facil_Guerreira.unity
+    guid: 7ac4819f7c84d3e4f8d5825438290150
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/PauseMenuFase3_Facil_Guerreira.unity
+    guid: 9deb4dca31dde814bbd60a5756c4220c
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/ProximaFase2_Facil_Guerreira.unity
+    guid: b7329d501b5786c4993fa5a37e496a1d
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Facil/ProximaFase3_Facil_Guerreira.unity
+    guid: dd9af68858710824188e177581ebc36f
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/Fase1_Medio_Guerreira.unity
+    guid: 80c5874d924aaf241812d8961efd8f69
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/Fase2_Medio_Guerreira.unity
+    guid: 0801f1a438c78b14ea52714997a70bc3
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/Fase3_Medio_Guerreira.unity
+    guid: 76bd4ee3a80a36e438776b5ce1110dda
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/PauseMenuFase1_Medio_Guerreira.unity
+    guid: 5c716150e2cd80c4d83818c23d0c794b
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/PauseMenuFase2_Medio_Guerreira.unity
+    guid: 5a7e1e49969fc6d499f265a77bb18fd5
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/PauseMenuFase3_Medio_Guerreira.unity
+    guid: 30d8057a9a85530439fed79e6cb14372
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/ProximaFase2_Medio_Guerreira.unity
+    guid: 120224d2743b53047a2f51bb50c5003e
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Medio/ProximaFase3_Medio_Guerreira.unity
+    guid: acb3e5b0cdaf0154bbf8cb4266b3601d
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/Fase1_Dificil_Guerreira.unity
+    guid: 05095a5e9440a2d4e9a9f328f7f2424e
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/Fase2_Dificil_Guerreira.unity
+    guid: 7b0a520c0146cdc4ea02ce66d0c6aa47
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/Fase3_Dificil_Guerreira.unity
+    guid: c68517e8b6d5c7b4d971a2d57c9adc11
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/PauseMenuFase1_Dificil_Guerreira.unity
+    guid: 950fd3d07c10689418da03edaaa994b7
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/PauseMenuFase2_Dificil_Guerreira.unity
+    guid: 4c2184d500537c2448576ed0d8bfd0a2
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/PauseMenuFase3_Dificil_Guerreira.unity
+    guid: 0b5ac4142f0a817449846c970c2bb04d
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/ProximaFase2_Dificil_Guerreira.unity
+    guid: 9efdaab8a5170754fba5e64b9967aa50
+  - enabled: 1
+    path: Assets/Scenes/Guerreira/Dificil/ProximaFase3_Dificil_Guerreira.unity
+    guid: cff0be0df68240a44a7a6a29d07dabdc

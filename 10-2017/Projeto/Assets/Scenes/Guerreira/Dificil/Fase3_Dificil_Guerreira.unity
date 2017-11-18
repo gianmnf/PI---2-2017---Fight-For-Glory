@@ -6181,7 +6181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c46be46f021ca024b8df7c5708ceac4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: PauseMenuFase3_Dificil
+  name: PauseMenuFase3_Dificil_Guerreira
   other: {fileID: 905443083}
   musica: {fileID: 736471530}
 --- !u!4 &493688108
