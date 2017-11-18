@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//Atualizado em 18/11/2017 por Leonardo Braga
+
 public class LevelManager : MonoBehaviour {
 	public GameObject aso;
 	public Transform mainMenu, optionsMenu,levelMenu,instrucoes,creditos,guerreiro,guerreirofacil,guerreiromedio,guerreirodificil,guerreira,guerreirafacil,guerreiramedio,guerreiradificil;
