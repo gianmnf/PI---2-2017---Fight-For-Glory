@@ -39,6 +39,7 @@ GameObject:
   - component: {fileID: 95161301153480410}
   - component: {fileID: 114024555957974076}
   - component: {fileID: 82597514605041786}
+  - component: {fileID: 114427612355417458}
   m_Layer: 5
   m_Name: Vidas
   m_TagString: Untagged
@@ -170,6 +171,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 842c95a9e3572cb4aa248cae7bee4c30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114427612355417458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1735927715181606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 576d5281a7a00f8428d01b00909e2c37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &114546433681401528

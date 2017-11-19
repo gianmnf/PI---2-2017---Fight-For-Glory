@@ -14,6 +14,10 @@ public class LevelManager : MonoBehaviour {
 	public void QuitGame(){
 		Application.Quit ();	
 	}
+
+	public void btnEmpresa(){
+		Application.OpenURL ("lostnexusgames.github.io");
+	}
 	public void OptionsMenu(bool clicked){
 		if (clicked == true) {
 			optionsMenu.gameObject.SetActive (clicked);
