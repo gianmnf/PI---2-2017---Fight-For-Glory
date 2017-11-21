@@ -51,13 +51,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Guerreiro/Facil/ProximaFase3_Facil.unity
     guid: c24d3aa57b00113448ad731dfac727c0
   - enabled: 1
-    path: Assets/Scenes/Guerreiro/Medio/Fase3_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/Fase1_Medio.unity
     guid: 3899bc79db2241a4aac06c2acff9708a
   - enabled: 1
     path: Assets/Scenes/Guerreiro/Medio/Fase2_Medio.unity
     guid: 419447dd2e24c9244a631322b0164d1c
   - enabled: 1
-    path: Assets/Scenes/Guerreiro/Medio/Fase1_Medio.unity
+    path: Assets/Scenes/Guerreiro/Medio/Fase3_Medio.unity
     guid: 45448be70fc6c724e845e584c5ddfe08
   - enabled: 1
     path: Assets/Scenes/Guerreiro/Medio/PauseMenuFase1_Medio.unity
@@ -123,13 +123,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Guerreira/Facil/ProximaFase3_Facil_Guerreira.unity
     guid: dd9af68858710824188e177581ebc36f
   - enabled: 1
-    path: Assets/Scenes/Guerreira/Medio/Fase1_Medio_Guerreira.unity
+    path: Assets/Scenes/Guerreira/Medio/Fase3_Medio_Guerreira.unity
     guid: 80c5874d924aaf241812d8961efd8f69
   - enabled: 1
     path: Assets/Scenes/Guerreira/Medio/Fase2_Medio_Guerreira.unity
     guid: 0801f1a438c78b14ea52714997a70bc3
   - enabled: 1
-    path: Assets/Scenes/Guerreira/Medio/Fase3_Medio_Guerreira.unity
+    path: Assets/Scenes/Guerreira/Medio/Fase1_Medio_Guerreira.unity
     guid: 76bd4ee3a80a36e438776b5ce1110dda
   - enabled: 1
     path: Assets/Scenes/Guerreira/Medio/PauseMenuFase1_Medio_Guerreira.unity

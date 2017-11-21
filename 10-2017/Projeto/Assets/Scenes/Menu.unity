@@ -503,7 +503,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase2_Dificil
+          m_StringArgument: Fase2_Dificil_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -2011,7 +2011,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase1_Facil_Guerreira
+          m_StringArgument: Fase1_Dificil_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -2143,7 +2143,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase3_Dificil
+          m_StringArgument: Fase3_Dificil_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -4512,7 +4512,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase1_Facil
+          m_StringArgument: Fase1_Medio_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -5746,7 +5746,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase3_Facil_Guerreira
+          m_StringArgument: Fase3_Dificil_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -6363,7 +6363,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase3_Facil
+          m_StringArgument: Fase3_Medio_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -13532,7 +13532,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase1_Dificil
+          m_StringArgument: Fase1_Dificil_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -14741,7 +14741,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase2_Facil_Guerreira
+          m_StringArgument: Fase2_Dificil_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
@@ -15578,7 +15578,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fase2_Facil
+          m_StringArgument: Fase2_Medio_Guerreira
           m_BoolArgument: 0
         m_CallState: 1
       - m_Target: {fileID: 1975068743}
